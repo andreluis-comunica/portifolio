@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreluis-comunica.github.io/sitemap.xml
